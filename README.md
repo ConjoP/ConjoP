@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey there, I’m Patrick!
 
-<!--
-**ConjoP/ConjoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 Director Technology & Development | Managing smart buildings with data-driven solutions | Tech & automation enthusiast
 
-Here are some ideas to get you started:
+🌟 What I Do
+	•	Optimize operations for technologically advanced buildings
+	•	Oversee facility and property management systems
+	•	Turn data into actionable insights for DMUs (Decision-Making Units)
+	•	Advocate for cybersecurity in building operations
+ 	•	Drive the evolution to autonomous buildings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+	•	Languages: Python (data analysis, scripting)
+	•	Tools: Microsoft Graph API, Azure, BI platforms
+	•	Specialties: Smart building tech, IoT systems, data ingress and data visualization
+
+📈 What Drives Me
+Transforming complex building operations into seamless, efficient systems through innovation and collaboration.
+
+Feel free to connect or collaborate with me on all things related to smart building tech and data intelligence! 🚀
