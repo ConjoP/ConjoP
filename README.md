@@ -14,7 +14,7 @@
 
 	•	Languages: Python (data analysis, scripting)
 	•	Tools: Microsoft Graph API, Azure, BI platforms
-	•	Specialties: Smart building tech, IoT systems, data ingress and data visualization
+	•	Specialties: Smart building tech, IoT systems, data ingress, automations and data visualization
 
 📈 What Drives Me:
 
