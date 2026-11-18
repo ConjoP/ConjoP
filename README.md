@@ -6,7 +6,7 @@
 
 	•	Optimize operations for technologically advanced buildings
 	•	Oversee facility and property management systems
-	•	Turn data into actionable insights for DMUs (Decision-Making Units)
+	•	Turn data into actionable insights for DMUs
 	•	Advocate for cybersecurity in building operations
  	•	Drive the evolution to autonomous buildings
 
